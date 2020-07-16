@@ -49,7 +49,7 @@ print("Площадь тругольника \(dblArea)")
 /* Исходные данные: сумма вклада, срок, % в год */
 let intDepositTerm:Int = 5 // Срок вклада
 var dblDepositAmount:Double = 1000.00 //  сумма депозита
-let dblDepositPercent:Double = 0.1 //  банковский процент: 1 - это 100%
+let dblDepositPercent:Double = 0.1 //  банковский процент: 1 - это 100%.
 
 var dblAccruedInterest:Double = 0.00; // Начисленные проценты за календарный год
 
